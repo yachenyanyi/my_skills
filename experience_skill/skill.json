@@ -1,0 +1,15 @@
+{
+  "id": "experience-skill",
+  "label": "经验文件生成器",
+  "description": "将文章、截图保存为结构化的经验文件",
+  "version": "1.0.0",
+  "author": "wt",
+  "type": "custom",
+  "triggers": [
+    "保存文章",
+    "经验文件",
+    "Exp_",
+    "生成经验"
+  ],
+  "requirements": []
+}
